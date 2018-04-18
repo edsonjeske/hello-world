@@ -1,6 +1,3 @@
-# hello-world
-Lets get started
-
 # Product Name
 > Short blurb about what your product does.
 
